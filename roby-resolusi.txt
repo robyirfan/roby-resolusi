@@ -2,5 +2,5 @@ ROBY RESOLUSI
 - Bikin good portofolio
 - Bikin penjelasan use-case dan database yang bagus di github open-source
 - Onlinekan website e-commerce
-- Belajar unit-test
 - Fokus DSA
+- Kerja
